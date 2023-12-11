@@ -10,7 +10,7 @@ public class DigitsSumCalculator {
             sum += digit;
             number /= 10;
         }
-        System.out.println("Sum of digit: " + sum);
+        System.out.println(sum);
     }
 
 }

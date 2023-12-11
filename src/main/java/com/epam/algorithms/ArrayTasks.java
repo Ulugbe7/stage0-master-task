@@ -1,8 +1,5 @@
 package com.epam.algorithms;
 
-import java.util.Arrays;
-import java.util.Comparator;
-
 /**
  * Here are the tasks for working with the arrays.
  * <p>
